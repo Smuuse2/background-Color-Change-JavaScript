@@ -1,0 +1,18 @@
+#Class{
+
+    padding: 10px;
+    color: blue;
+    background-color: white;
+    border: solid 1px;
+   align-items: center;
+   cursor: pointer;
+   text-align: center;
+
+}
+#Class:hover{
+    background-color: brown;
+    color: white;
+    
+
+
+}
